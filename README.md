@@ -31,4 +31,4 @@ Current solution consists of three parts:
 
 The final model's MAE is about 10.0% of the mean house price.
 
-The result is presented in a 'eda+prediction' jupyter notebook file.
+The result is presented in a ['eda+prediction'](https://github.com/Miracle-Aligner/house-prices-eda-and-prediction/blob/main/eda%2Bprediction.ipynb) jupyter notebook file.
